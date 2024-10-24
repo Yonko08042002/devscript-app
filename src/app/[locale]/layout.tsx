@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import { Lora, Montserrat } from "next/font/google";
-import { ReactNode } from "react";
 import { NextIntlClientProvider } from "next-intl";
 import { cn } from "core/utils/cn";
 import { getMessages } from "next-intl/server";
 import { ThemeProvider } from "./theme-provider";
+import type { ReactNode } from "react";
 
 const lora = Lora({
   subsets: ["latin"],
