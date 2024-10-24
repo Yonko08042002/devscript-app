@@ -1,0 +1,16 @@
+{
+  "Menu": {
+    "home": "Trang chủ",
+    "resume": "Về tôi",
+    "services": " Dịch vụ",
+    "work": " Việc làm",
+    "contact": " Liên hệ"
+  },
+  "LocaleSwitcher": {
+    "locale": "{locale, select, vi { Tiếng Việt } en { Tiêng Anh } other {Unbekannt}}"
+  },
+  "Profile": {
+    "hello": "Xin chào, chúng tôi là",
+    "introduce": "Chúng tôi là nhóm phát triển với chuyên môn sâu về xây dựng các giải pháp web giúp doanh nghiệp số hóa hoạt động kinh doanh và tối ưu hóa quy trình."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Menu": {
+    "home": "Home",
+    "resume": "Resume",
+    "services": " Services",
+    "work": "Work",
+    "contact": "Contact"
+  },
+  "LocaleSwitcher": {
+    "locale": "{locale, select, vi { Vietnamese } en { English } other {Unbekannt}}"
+  },
+  "Profile": {
+    "hello": "Hello we are",
+    "introduce": "We are a development team with deep expertise in building web solutions that help businesses digitalize business operations and optimize processes."
+  }
+}
